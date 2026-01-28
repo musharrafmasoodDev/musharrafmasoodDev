@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/mdmusharraf77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdmusharraf77" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/md-musharraf-9172901a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/md-musharraf-9172901a3" height="30" width="40" /></a>
-<a href="https://www.facebook.com/its.Musharraf.000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/its.musharraf.000" height="30" width="40" /></a>
+<a href="https://facebook.com/its.Musharraf.000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/its.musharraf.000" height="30" width="40" /></a>
 <a href="https://www.instagram.com/m_usharraf786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/its_musharraf_000" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mUsharraf0786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="851204" height="30" width="40" /></a>
 </p>
